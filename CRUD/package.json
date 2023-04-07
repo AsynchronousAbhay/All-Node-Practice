@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "hubot-dad-jokes": "^1.0.7"
+  }
+}
