@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.screen{
+  height: 100%;
+  width: 80%;
+  background-color: firebrick;
+}
+
+.panel{
+  height: 100%;
+  width: 20%;
+  background-color: bisque;
+}
+
